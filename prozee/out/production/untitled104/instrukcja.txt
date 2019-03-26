@@ -1,0 +1,29 @@
+Gra Sciezka
+Celem gry jest przejechanie calej mapy, punkty zdobywamy wraz z przebywaniem odleglosci
+Przy zachowaniu co najmniej jednego zycia.
+Na planszy trafiamy na 
+-przeszkody (Bomby)
+-dodatkowe punkty (Monety)
+-dodatkowe zycia (Serca)
+
+Bomby
+Zderzenie z bomba powoduja utrate zycia oraz 1000 punktow.
+
+Serca 
+Dodaja jedno zycie, mozemy obserwowac liczbe naszych 
+zyc na pasku po prawej stronie. Maksymalna liczba zyc ktora mozemy miec to 6.
+Kazde podniesione zycie powyzej 6 daje nam 1000 dodatkowych punktow.
+
+Monety
+Zebranie monety daje nam 1500 punktow.
+
+W grze mamy 3 poziomy, zderzenie ze sciana powoduje utrate zycia i 1000 punktow.
+Z kazdym poziomem zwieksza sie szybkosc poruszania pojazdu.
+Po smierci regenerujemy sie na srodku mapy a czas oczekiwania na start to 2 sekundy
+
+Sterowanie
+Strzalki w lewo i prawo - poruszanie sie w lewo i prawo
+Strzalka w tyl i w przod - zwalnianie i przyspieszanie. Przyspieszanie 
+daje nam zwiekszony mnoznik zdobywanych punktow, 
+natomiast jazda na hamulcu zmniejsza ilosc naszych punktow.
+Enter - pauza

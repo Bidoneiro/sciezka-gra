@@ -1,0 +1,11 @@
+ROZMIAR=300
+SZEROKOSC=40
+WYSOKOSC=60
+velMap=4
+MAXlifes=6
+NumberOfLifes=3
+NumberOfbpoints=40
+AmountBonuspoints=1500
+LifeBonuspoints=1000
+ROZMIAROKNAX=1000
+ROZMIAROKNAY=800
